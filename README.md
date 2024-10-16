@@ -2,7 +2,7 @@
 
 ## I am Frontend Engineer and, sometimes, I work on mobile and backend projects! 
 
-- 🟣  My main stack is React, Next.js and Typescript;
+- 🟣  My main stack is React, Next.js, Typescript and React Native (with Expo);
 - 🎡  I have more than 4 years (since 2021, I work on international companies and projects)
 - 🥅  Main goals: Being a team lead, create my own content for people on web development and be a Full Stack developer (React and Node.js)
 
@@ -13,6 +13,5 @@
 </div>
 
 <div align="center">
-<img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=Chatano&show_icons=true&theme=dracula" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatano&layout=compact&theme=dracula"/>
 </div>
